@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "宇宙からのラブレター",
+  "base_artist": "yutori",
+  "createdAt": "2025-12-17T16:59:11.860339Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宇宙からのラブレター",
+      "artist": "yutori",
+      "has_synced": false,
+      "path": "select/pl_01_宇宙からのラブレター_yutori.txt"
+    }
+  ]
+}
